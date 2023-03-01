@@ -1,0 +1,5 @@
+- Welcome
+- Token Offerings (+ Add Property)
+- Trade (+ Deposit)
+- My portfolio
+- Account

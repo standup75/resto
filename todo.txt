@@ -1,0 +1,25 @@
+- Add property type:
+		* Residential:
+			* Single-family homes
+			* Multi-family homes
+			* Townhouses
+			* Condominiums
+		* Commercial:
+			* Office space
+			* Retail space
+			* Farmland
+			* Multi-family homes
+		* Industrial
+		* Land
+
+- Add investment type:
+		* Debt(return, endDate)
+		* Equity(min return, dividends)
+		(* Preferred Equity(equity, debt))
+
+- Cap rate
+	- Metro Area
+	- Primary industries and companies
+	- Employment rate
+	- Median household income
+	- Education levels

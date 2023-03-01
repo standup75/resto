@@ -1,0 +1,35 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	color: #A7864A;
+	background-color: #0A0A0A;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Futura, "Helvetica Neue", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 0.5em 0;
+	font-weight: 400;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+a {
+	color: inherit;
+}
+
+
+@media (min-width: 400px) {
+	body {
+		font-size: 16px;
+	}
+}
